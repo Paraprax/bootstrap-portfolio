@@ -3,16 +3,32 @@ body {
     margin: 0px;
 }
 
+footer {
+    background-color: #666666;
+    border-top: 5px;
+    border-style: solid;
+    border-color: #4aaaa5;
+    border-left: 0;
+    border-bottom: 0;
+    border-right: 0;
+    color: #dddddd;
+    padding-top: 2%; 
+    position: fixed;
+        bottom: 0;
+        width: 100%;
+    text-align: center;
+}
 
 #name {
     color: #eeeeee;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 18pt;
+    font-size: 22pt;
     font-weight: bold;
 }
 
 .navbar {
     font-size: 14pt;
+    padding-left: 234px; 
 }
 
 .navbar-brand {
@@ -24,4 +40,13 @@ body {
     margin-right: 234px;
     margin-bottom: 150px;
     margin-left: 234px;
+}
+
+.subject {
+    color: #4aaaa5;
+    font-family: Georgia,'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-top: 1%;
+    margin-top: 1%; 
+    margin-bottom: 1%;
 }
