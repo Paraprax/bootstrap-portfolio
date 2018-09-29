@@ -12,10 +12,8 @@ footer {
     border-bottom: 0;
     border-right: 0;
     color: #dddddd;
+    margin-top: 10%; 
     padding-top: 2%; 
-    position: fixed;
-        bottom: 0;
-        width: 100%;
     text-align: center;
 }
 
