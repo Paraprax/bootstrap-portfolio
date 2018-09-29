@@ -1,3 +1,9 @@
+body {
+    background-image: url("/Users/Parker/src/basic-portfolio/assets/images/gravel/gravel.png");
+    margin: 0px;
+}
+
+
 #name {
     color: #eeeeee;
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -11,4 +17,11 @@
 
 .navbar-brand {
     background-color: #4aaaa5;
+}
+
+.panel {
+    margin-top: 150px;
+    margin-right: 234px;
+    margin-bottom: 150px;
+    margin-left: 234px;
 }
