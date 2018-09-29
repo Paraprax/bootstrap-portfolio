@@ -26,7 +26,8 @@ footer {
 
 .navbar {
     font-size: 14pt;
-    padding-left: 234px; 
+    padding-left: 234px;
+    padding-right: 234px; 
 }
 
 .navbar-brand {
